@@ -30,10 +30,12 @@ Inspirasi desain
 
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
-
+SEBAGAI      SAYA INGIN BISA      SEHINGGA      PRIORITAS
+pemain       login                masuk ke game   ⭐⭐⭐⭐
+pemain       identitas            mempunyai identitas     ⭐⭐⭐
+pemain       bermain              game dapat dimainkan    ⭐⭐⭐⭐⭐
+admin        tempat               ada tempat untuk bermain   ⭐⭐⭐
+pemain       memainkan dengan sungguh gungguh     menang dalam game     ⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
@@ -50,7 +52,20 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+dalam pembuatan game saya kali ini saya menggunaakan tekhnologi:
+1.laptop
+2.mouse
+3.youtobe
+4.sumber sumber
+library yang saya gunakan:
+1.jFrame = Versi perluasan java.awt.Frame yang menambahkan dukungan untuk arsitektur komponen JFC/Swing.
+2.jLabel = Area tampilan untuk string teks pendek atau gambar, atau keduanya.
+3.jButton =implementasi dari tombol "tekan".
+
+framework yang saya gunakan:
+1.Pixi.js in action
+2.visualcode
+dll
 
 ## 6. Desain User Experience dan User Interface
 
